@@ -10,7 +10,7 @@ moveamount 8
 
 bind-key M-period menu-window
 bind-key M-p dmenu_run
-bind-key M-x /home/cpn/bin/k
+bind-key M-x k
 bind-key M-o "xterm ranger"
 
 bind-key MS-Return window-maximize
